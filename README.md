@@ -1,13 +1,22 @@
 # Project: Loot Generator
 
-Authors: (_TODO: fill in names here!_)
+Authors: Owen Block
 
 ## Resources
 
-*   (_TODO: fill in resources here!_)
-*   ...
-*   ...
+*   Visual Studio Code
+*   Java 17.0.14
+*   Program Instuctions
+*   Starter Code from Professor Osera's Github
+*   Java API
+*   Spoke with Finn and Emily about the program on a high level
 
 ## Revision Log
 
-*   (_TODO: fill in your changes to your project here!_)
+*   FindMonsters is updated and functional
+*   FillTreasure is updated and functional
+*   FindStats is updated and functional
+*   FindPrefix is updated and functional
+*   FindSuffix is updated and functional
+*   LootGenerator is updated and functional
+*   Style and JavaDoc is updated and functional
